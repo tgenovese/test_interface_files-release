@@ -1,0 +1,12 @@
+Source: ros-eloquent-test-interface-files
+Section: misc
+Priority: extra
+Maintainer: Karsten Knese <karsten@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-eloquent-ament-cmake-core, ros-eloquent-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-test-interface-files
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-ros-workspace
+Description: A package containing message definitions and fixtures used exclusively for testing purposes.
