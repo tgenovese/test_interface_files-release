@@ -2,6 +2,11 @@
 Changelog for package test_interface_files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.0 (2021-08-06)
+------------------
+* Added BoundedPlainSequences messages (`#14 <https://github.com/ros2/test_interface_files/issues/14>`_)
+* Contributors: Miguel Company
+
 0.8.1 (2021-03-18)
 ------------------
 * Update maintainer (`#13 <https://github.com/ros2/test_interface_files/issues/13>`_)
