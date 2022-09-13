@@ -2,6 +2,11 @@
 Changelog for package test_interface_files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.1 (2022-09-13)
+-------------------
+* Mirror rolling to master
+* Contributors: Audrow Nash
+
 0.10.0 (2022-05-04)
 -------------------
 
