@@ -1,3 +1,26 @@
+## test_interface_files (rolling) - 0.12.0-1
+
+The packages in the `test_interface_files` repository were released into the `rolling` distro by running `/usr/bin/bloom-release test_interface_files --rosdistro rolling --non-interactive` on `Mon, 29 Apr 2024 08:26:08 -0000`
+
+The `test_interface_files` package was released.
+
+Version of package(s) in repository `test_interface_files`:
+
+- upstream repository: https://github.com/ros2/test_interface_files.git
+- release repository: https://github.com/ros2-gbp/test_interface_files-release.git
+- rosdistro version: `0.11.0-2`
+- old version: `0.11.0-2`
+- new version: `0.12.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## test_interface_files (rolling) - 0.11.0-1
 
 The packages in the `test_interface_files` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling test_interface_files` on `Fri, 28 Apr 2023 11:24:06 -0000`
