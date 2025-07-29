@@ -2,6 +2,7 @@ module test_msgs {
   module idl {
     struct IdlOnlyTypes {
       wchar wchar_value;
+      long double long_double_value;
     };
   };
 };
