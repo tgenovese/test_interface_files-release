@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:tgenovese/test_interface_files-release.git
 tracks:
   dashing:
     actions:
